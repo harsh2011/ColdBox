@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1070371352410",
+    "firebase_url": "https://vaccination-49c21.firebaseio.com",
+    "project_id": "vaccination-49c21",
+    "storage_bucket": "vaccination-49c21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070371352410:android:a767bfeaf11dfebc",
+        "android_client_info": {
+          "package_name": "com.hvacci.vaccination"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070371352410-nnrgm6vrbrlkgq75it0df4qc32689q6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hvacci.vaccination",
+            "certificate_hash": "b88ab06f3b0e96a24a97563716c6dcb210a1cbfb"
+          }
+        },
+        {
+          "client_id": "1070371352410-vpnl0gfchrn40h3oqv6uffhkkasc40oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMZYJ5Xm2IFPacASVp6X9Sj4jIRHjjBzs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070371352410-vpnl0gfchrn40h3oqv6uffhkkasc40oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
